@@ -1,0 +1,24 @@
+modes:
+1)simple and half duplex ,full duplex
+
+networks:
+san
+man
+lan
+van
+can
+wan
+
+end devices and intermediate devices
+
+
+types of cables:
+
+straight Over: 
+walkover;different devices
+cross over- SAME COMPUTER
+
+Network topologies:-
+1) bus topology
+2)CSMA/CD- CARRIER SENSE MULTIPLE ACCESS COLLISION DETECTION
+3)HALF DUPLEX
