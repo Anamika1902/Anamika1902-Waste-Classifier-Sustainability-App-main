@@ -600,7 +600,7 @@ else:
 db = firestore.client()
 
 
-openai.api_key = "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"
+openai.api_key = "OPENAI_KEY"
 
 
 def apps():
